@@ -1,7 +1,3 @@
-Here is a sample GitHub `README.md` for your project:
-
----
-
 # Integrated Contextual Gate Network (ICGN) for fNIRS Brain-Computer Interface Applications
 
 This repository contains the implementation of the **Integrated Contextual Gate Network (ICGN)** layer, designed to enhance classification accuracy in deep learning models, particularly for functional Near-Infrared Spectroscopy (fNIRS) brain–computer interface (BCI) applications. This custom TensorFlow layer is inspired by the paper:
